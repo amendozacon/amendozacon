@@ -18,7 +18,7 @@
 
 - :school: I'm a `Junior` at [Universidad Nacional de San Agustin de Arequipa](https://www.unsa.edu.pe/)
 - :technologist: Studying `Telecommunications Engineering` and a passionate `self-learner`
-- :email: Feel free to reach out via [![Email](https://img.shields.io/static/v1?label=email&message=Abel%20Mendoza&color=EA4335&style=flat-square)](mailto:amendozacon@unsa.edu.pe)
+- :email: Feel free to reach out via [![gmail](https://img.shields.io/static/v1?label=gmail&message=Abel%20Mendoza&color=EA4335&style=flat-square)](mailto:amendozacon@unsa.edu.pe)
 
 <br>
 
